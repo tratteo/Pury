@@ -1,3 +1,4 @@
+[![openupm](https://img.shields.io/npm/v/com.tratteo.pury?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.tratteo.pury/)
 # Pury
 A lightweight Unity library for creating editor windows with ease.
 
