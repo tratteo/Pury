@@ -1,6 +1,6 @@
 {
   "name": "com.tratteo.pury",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Pury",
   "description": "A lightweight Unity library for creating editor windows with ease",
   "keywords": [
