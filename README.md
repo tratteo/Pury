@@ -1,4 +1,10 @@
-[![openupm](https://img.shields.io/npm/v/com.tratteo.pury?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.tratteo.pury/)
+[![openupm](https://img.shields.io/npm/v/com.tratteo.pury?label=OpenUPM&registry_uri=https://package.openupm.com)](
+https://openupm.com/packages/com.tratteo.pury/)
+![GitHub](https://img.shields.io/github/license/tratteo/Pury?color=orange&label=License)
+![GitHub top language](https://img.shields.io/github/languages/top/tratteo/Pury?color=5027d5&label=C%23&logo=.net)
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/tratteo/Pury/main?label=Last%20commit&color=brightgreen&logo=github)
+
+
 # Pury
 A lightweight Unity library for creating editor windows with ease.
 
